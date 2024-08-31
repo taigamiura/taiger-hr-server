@@ -1,4 +1,4 @@
-module github.com/taigamiura/taiger-hr-project/taiger-hr-server/common
+module github.com/taigamiura/taiger-hr-server/common
 
 go 1.22.5
 
